@@ -1,0 +1,6 @@
+framework module CTLogining {
+  umbrella header "CTLogining-umbrella.h"
+
+  export *
+  module * { export * }
+}

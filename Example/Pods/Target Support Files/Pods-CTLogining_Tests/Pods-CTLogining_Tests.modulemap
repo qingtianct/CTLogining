@@ -1,0 +1,6 @@
+framework module Pods_CTLogining_Tests {
+  umbrella header "Pods-CTLogining_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

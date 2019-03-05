@@ -1,0 +1,16 @@
+PODS:
+  - CTLogining (0.1.0)
+
+DEPENDENCIES:
+  - CTLogining (from `../`)
+
+EXTERNAL SOURCES:
+  CTLogining:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CTLogining: c0fb63105f75e0bd2ea174bd73bc20d44034796b
+
+PODFILE CHECKSUM: b52b9f97ad3dd4a08b0d9e033e013b7dc67f1162
+
+COCOAPODS: 1.6.0.beta.2
